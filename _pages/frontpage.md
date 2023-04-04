@@ -24,15 +24,13 @@ list_title: My blog posts
 <div class="container">
     
 <div class="img">
-<img src="../assets/imgs/pp.jpg">
+    <img src="../assets/imgs/pp.jpg">
 </div>
 
 <div class="text">
 Welcome to my page, this is where I showcase my art, research and some thoughts and processes about everything. I am a computer graphics researcher, currently a PhD studet at Texas A&M University working with  <a href="http://people.tamu.edu/~ergun/">Dr. Ergun Akleman</a> on weaving structures, ray tracing and volumetric decompositions. 
 </div>
-
 </div>
-
 
 </div>
 
