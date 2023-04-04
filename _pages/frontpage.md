@@ -5,11 +5,35 @@ title: Tolga Talha Yildiz
 list_title: My blog posts
 ---
 
-Welcome to my page, this is where I showcase my art, research and some thoughts and processes about everything. I am a computer graphics researcher, currently a PhD studet at Texas A&M University working with  <a href="http://people.tamu.edu/~ergun/">Dr. Ergun Akleman</a> on weaving structures, ray tracing and volumetric decompositions. Does this have support for latex $\LaTeX$, lets to rendering equations here:
-$$\begin{align*}w_o=\int_\Omega w_i\text{BRDF}(w_i,w_o)d\omega \end{align*}$$
-
-<div style="text-align:right">
+<style>
+    .container{
+        display:flex;
+        align-items: center;
+        jutify-content: center
+    }
+    .img{
+        max-width:100%;
+        max-height:100%;
+        
+    }
+    .text{
+        font-size: 20px;
+        padding-left: 20px;
+    }
+</style>
+<div class="container">
+    
+<div class="img">
 <img src="../assets/imgs/pp.jpg">
+</div>
+
+<div class="text">
+Welcome to my page, this is where I showcase my art, research and some thoughts and processes about everything. I am a computer graphics researcher, currently a PhD studet at Texas A&M University working with  <a href="http://people.tamu.edu/~ergun/">Dr. Ergun Akleman</a> on weaving structures, ray tracing and volumetric decompositions. 
+</div>
+
+</div>
+
+
 </div>
 
 
