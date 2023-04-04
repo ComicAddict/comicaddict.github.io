@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: home
-title: Welcome
+title: Tolga Talha Yildiz
 list_title: My blog posts
 ---
 
