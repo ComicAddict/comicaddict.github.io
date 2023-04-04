@@ -1,15 +1,16 @@
-title: My blog
-description: My very nice blog
-author: "Jorge Sanz"
+title: Tolga Talha Yildiz
+description: Here is my art, research and projects
+author: "Tolga Talha Yildiz"
 
 theme: minima
 
 
 # Minima social links
-twitter_username: xurxosanz
-github_username: jsanz
-linkedin_username: jsanz
-rss: rss
+twitter_username: tolgatalhayldz
+instagram_username: tolgatalhayldz
+github_username: ComicAddict
+linkedin_username: tolga-talha-yildiz
+#rss: rss
 
 # Minima: show excerpts in the frontpage
 show_excerpts: true
