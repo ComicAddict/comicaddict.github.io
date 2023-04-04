@@ -9,21 +9,22 @@ list_title: My blog posts
     .container{
         display:flex;
         align-items: center;
-        jutify-content: center
+        justify-content: center;
     }
     .img{
         max-width:100%;
         max-height:100%;
-        
+        float:left
     }
     .text{
-        font-size: 20px;
+        font-size: 15px;
         padding-left: 20px;
     }
 </style>
+
 <div class="container">
     
-<div class="img">
+<div class="image">
     <img src="../assets/imgs/pp.jpg">
 </div>
 
@@ -32,10 +33,3 @@ Welcome to my page, this is where I showcase my art, research and some thoughts 
 </div>
 </div>
 
-</div>
-
-
-[gh-site]: https://pages.github.com/
-[minima]: https://github.com/jekyll/minima/tree/2.5-stable
-[jk]: https://jekyllrb.com/
-[gh]: https://help.github.com/en/github/working-with-github-pages`
