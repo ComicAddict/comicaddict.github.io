@@ -21,8 +21,10 @@ minima:
 # Minima: custom header links
 header_pages:
   - _pages/frontpage.md
-  - _pages/about.md
-  - _pages/archive.md
+  - _pages/publications.md
+  - _pages/projects.md
+  - _pages/teaching.md
+  - _pages/art.md
 
 include:
     - _pages
