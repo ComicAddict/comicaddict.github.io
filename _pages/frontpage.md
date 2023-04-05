@@ -12,9 +12,9 @@ list_title:
         justify-content: center;
     }
     .img{
-        max-width:100%;
-        max-height:100%;
-        float:left
+        max-width:500px;
+        max-height:auto;
+        float:right;
     }
     .text{
         font-size: 15px;
@@ -23,13 +23,12 @@ list_title:
 </style>
 
 <div class="container">
-    
-<div class="image">
-    <img src="../assets/imgs/pp.jpg">
-</div>
-
 <div class="text">
 Welcome to my page, this is where I showcase my art, research and some thoughts and processes about everything. I am a computer graphics researcher, currently a PhD studet at Texas A&M University working with <a href="http://people.tamu.edu/~ergun/">Dr. Ergun Akleman</a> on weaving structures, ray tracing and volumetric decompositions. I graduated from <a href="https://w3.bilkent.edu.tr/bilkent/">Bilkent University</a> with a degree in Electrical and Electronics Engineering.
+</div>
+
+<div class="image">
+    <img src="../assets/imgs/pp.jpg">
 </div>
 </div>
 
