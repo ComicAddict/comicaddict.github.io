@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /projects
 layout: page
 title: Projects
 list_title: My Projects
