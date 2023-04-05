@@ -12,8 +12,7 @@ list_title:
         justify-content: center;
     }
     .img{
-        max-width:500px;
-        max-height:auto;
+        height:auto;
         float:right;
     }
     .text{
@@ -28,7 +27,7 @@ Welcome to my page, this is where I showcase my art, research and some thoughts 
 </div>
 
 <div class="image">
-    <img src="../assets/imgs/pp.jpg">
+    <img src="../assets/imgs/pp.jpg" width=1500px>
 </div>
 </div>
 
