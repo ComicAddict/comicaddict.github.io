@@ -49,3 +49,13 @@ This course is about learning the digital logic and implementing these logics th
 #### Course Listing: EEE 211
 #### Semester: Fall 2019
 This course is about learning the analog components in circuits and implementing a radio using 13 week lab procedure on a planned construction of TRC-20. I was responsible for leading the labs.
+
+---
+
+## Lecture Notes
+### <a href="../assets/pdfs/MATH241.pdf" target="_blank">Engineering Mathematics I</a>
+### <a href="../assets/pdfs/MATH242.pdf" target="_blank">Engineering Mathematics II</a>
+### <a href="../assets/pdfs/ME550 Notes-2.pdf" target="_blank">Continuum Mechanics</a>
+
+
+---
