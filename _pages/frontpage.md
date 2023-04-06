@@ -22,6 +22,15 @@ list_title:
         padding-left: 20px;
     }
 </style>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7K4JVH2ST9"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-7K4JVH2ST9');
+</script>
 ---
 <div class="container">
     <img src="../assets/imgs/pp.jpg" width=256px height=256px>

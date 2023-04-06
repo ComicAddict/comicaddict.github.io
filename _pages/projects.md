@@ -5,6 +5,16 @@ title: Projects
 list_title: My Projects
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7K4JVH2ST9"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-7K4JVH2ST9');
+</script>
+
 ## <a href="https://github.com/ComicAddict/GS3DCurves"> 3D Weaving Generator in C++</a>
 <img src="../assets/pr_images/gs3d_cpp.png" width=500px>
 
