@@ -112,7 +112,7 @@ $dm-brand-color-dark:      darken($dm-brand-color, 35%) !default;
 
 $dm-site-title-color:      $dm-brand-color-light !default;
 
-$dm-text-color:            #bbbbbb !default;
+$dm-text-color:            #efefef !default;
 $dm-background-color:      #181818 !default;
 $dm-code-background-color: #212121 !default;
 
@@ -140,7 +140,7 @@ $dm-table-border-color:    $dm-border-color-01 !default;
 
 @mixin dm-highlight {
   .highlight {
-    .c     { color: #545454; font-style: italic } // Comment
+    .c     { color: #8b8b8b; font-style: italic } // Comment
     .err   { color: #f07178; background-color: #e3d2d2 } // Error
     .k     { color: #89DDFF; font-weight: bold } // Keyword
     .o     { font-weight: bold } // Operator

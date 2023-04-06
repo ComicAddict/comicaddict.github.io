@@ -1,8 +1,3 @@
-## <img id="im9" src="../assets/imgs/signalton.png" width=120px height=48px> Signalton Technology
-#### Sep 2021 - Jun 2022
-#### Capstone Project Engineer
-Development of object detection algorithms on a low memory IoT device SigMote developed by Signalton Technology.
-
 ## <img id="im10" src="../assets/imgs/aselsan.png" width=120px height=32px> ASELSAN
 #### Nov 2021 - Apr 2022
 #### Candidate Research Engineer
