@@ -365,4 +365,5 @@ $table-border-color: $lm-table-border-color;
 @import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
 body {
     font-family: 'Montserrat', sans-serif;
+    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)), url('{{ site.baseurl }}/assets/imgs/back.jpg');
 }

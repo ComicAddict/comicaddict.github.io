@@ -33,6 +33,8 @@ list_title:
 
   gtag('config', 'G-7K4JVH2ST9');
 </script>
+
+
 ---
 <div class="container">
     <img src="../assets/imgs/pp.jpg" width=256px height=256px>
@@ -58,6 +60,5 @@ Welcome to my page, this is where I showcase my art, research and some thoughts 
 # [Teaching](teaching_header.md)
 {% include_relative teaching.md %}
 ---
-
 
 
