@@ -1,0 +1,41 @@
+title: Tolga Talha Yildiz
+description: Here is my art, research and projects
+author: "Tolga Talha Yildiz"
+
+theme: minima
+
+
+# Minima social links
+twitter_username: tolgatalhayldz
+instagram_username: tolgatalhayldz
+github_username: ComicAddict
+linkedin_username: tolga-talha-yildiz
+google_analytics: G-7K4JVH2ST9
+#rss: rss
+
+# Minima: show excerpts in the frontpage
+show_excerpts: true
+
+minima:
+
+  skin: dark
+  date_format: "%Y-%m-%d"
+
+# Minima: custom header links
+header_pages:
+  - _pages/frontpage.md
+  - _pages/projects.md
+  - _pages/teaching.md
+  - _pages/teaching_header.md
+  - _pages/art.md
+
+include:
+    - _pages
+
+exclude: 
+    - .gitignore
+    - docker-compose.yml
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md
