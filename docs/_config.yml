@@ -14,12 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Tolga Talha YILDIZ
-email: tolgatalhayldz@gmail.com
+email: tolgayildiz@tamu.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my blog, it generally consists of my projects and art. If you have any suggestions or contribution to the topics please contact me.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: caseNSNSTV
+twitter_username: tolgatalhayldz
 github_username:  ComicAddict
 
 # Build settings
